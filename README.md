@@ -1,3 +1,3 @@
-README.md
+HW1 Database Project
 
-database.sql
+This project is used for the Jira Scrum assignment
